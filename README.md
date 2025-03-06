@@ -47,6 +47,7 @@ TinyLlama processes text by converting words into embeddings, applying self-atte
 
 ```
 Numenigma/
+├── Numenigma.ipynb       # Notebook File
 ├── riddlesfactory.csv    # CSV file with 50 math riddles (Riddle column and Answer column)     
 ├── app.py                # Streamlit interface for interactive riddle generation
 ├── README.md             # This file
