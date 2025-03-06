@@ -133,10 +133,10 @@ streamlit run app.py
 
 ## Links & Resources
 
-- **GitHub Repository:** [https://github.com/buzzgrewal/numenigma](https://github.com/buzzgrewal/numenigma)
-- **Kaggle Notebook:** [https://www.kaggle.com/yourusername/numenigma](https://www.kaggle.com/yourusername/numenigma)
-- **Hugging Face Transformers Docs:** [https://huggingface.co/transformers/](https://huggingface.co/transformers/)
-
+- **GitHub Repository:** [Numenigma](https://github.com/buzzgrewal/numenigma)
+- **Kaggle Notebook:** [Numenigma](https://www.kaggle.com/models/buzzgrewal/numenigma)
+- **Medium:** [Blog Post](https://buzzgrewal.medium.com/numenigma-crafting-math-riddles-with-tinyllama-40cafe1b7f85)
+- **Hugging Face Transformers Docs:** [Transformers](https://huggingface.co/transformers/)
 ---
 
 ## Contributing
